@@ -5,6 +5,8 @@ I thought something that would be interesting to explore would be the difference
 
 For now I've just taken a look at the responses to questions about the importance of certain aspects of a job opportunity. Participants were asked to rate on a scale of 1-10 the importance of things like benefits, industry, company culture, etc. My program looks at these responses, groups them by gender and topic, and creates a [boxplot with Plotly](https://plot.ly/~ambigraham/3/stack-overflow-survey-importance-of-job-opportunity-aspects-to-men-and-women/#/).
 
+![Alt text](boxplot_image.png "Title")
+
 There is truly so much to explore with this data set and I hope to do more! 
 
 I hope this project will at least be useful for other beginners with data analysis looking to see how you can make cool data visualizations with Python.
