@@ -13,7 +13,7 @@ When you download this project you will first need to extract the zip file. This
 /stack-overflow-2018-developer-survey/survey_results_public.csv
 ```
 
-You will also of course need Python installed on your machine as well as a few modules. I used Python version 3.6.5.
+You will also of course need [Python](https://www.python.org/downloads/) installed on your machine as well as a few modules. I used Python version 3.6.5.
 The modules you need to install are:
 * pandas
 * plotly
@@ -35,5 +35,14 @@ Note that running this line could take some time -- in my experience it could be
 
 If you just want an offline graph, you should be good to go and the program will create a local html file for you upon running. Offline graphs are also much quicker to run!
 
+## Deployment
+Just run this line on your command line while in the project directory:
+```
+py analysis.py
+```
 
+## Built With
+* [Plotly](https://plot.ly/python/)
 
+## Author
+[Amber Graham](github.com/ambergraham)
