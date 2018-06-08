@@ -163,6 +163,13 @@ layout = go.Layout(
 
 fig = go.Figure(data = data, layout = layout)
 
-#Plots the graph on the plot.ly website in the filename specified
+'''
+Plots the graph on the plot.ly website in the filename specified.
+This takes a couple minutes to run so I have it commented out.
+'''
 #py.iplot(fig, filename = 'stackoverflow-chart1')
+'''
+Plots the graph and saves it in a local html file. The program will
+open the html file in your default browser automatically.
+'''
 offline.plot(fig, filename='stackoverflow-chart1.html')
