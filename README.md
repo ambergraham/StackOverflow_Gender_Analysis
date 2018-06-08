@@ -1,4 +1,4 @@
-# StackOverflow Gender Analysis
+# Stack Overflow Gender Analysis
 Stack Overflow conducts yearly surveys from their users. The survey contains questions asking about the participants' salary, happiness in the workplace, competitiveness at the work place, their education, their thoughts about AI, and many more. The 2018 survey results were [published publicly on Kaggle](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey) and I thought I would explore it a little for my first data analysis project.
 
 I thought something that would be interesting to explore would be the differences in responses to questions between men and women. As many know, there is quite a gender gap in the tech world. Maybe there is something that this survey could tell us about that? Maybe it is not so obvious?
