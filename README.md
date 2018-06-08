@@ -3,9 +3,11 @@ Stack Overflow conducts yearly surveys from their users. The survey contains que
 
 I thought something that would be interesting to explore would be the differences in responses to questions between men and women. As many know, there is quite a gender gap in the tech world. Maybe there is something that this survey could tell us about that? Maybe it is not so obvious?
 
-For now I've just taken a look at the responses to questions about the importance of certain aspects of a job opportunity. Participants were asked to rate on a scale of 1-10 the importance of things like benefits, industry, company culture, etc. 
+For now I've just taken a look at the responses to questions about the importance of certain aspects of a job opportunity. Participants were asked to rate on a scale of 1-10 the importance of things like benefits, industry, company culture, etc. My program looks at these responses, groups them by gender and topic, and creates a [boxplot with Plotly](https://plot.ly/~ambigraham/3/stack-overflow-survey-importance-of-job-opportunity-aspects-to-men-and-women/#/).
 
-There is truly so much to explore with this data set and I hope to do more!
+There is truly so much to explore with this data set and I hope to do more! 
+
+I hope this project will at least be useful for other beginners with data analysis looking to see how you can make cool data visualizations with Python.
 
 ## Installation
 When you download this project you will first need to extract the zip file. This zip contains the survey results as a csv as well as a schema for the questions asked in the survey as a csv. The schema is not neccessary for the project to run but it is extremely helpful for understanding the columns in the very large data set. The path from the project folder to the csv should be:
